@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    height: 120px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    max-width: 50%;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+}
+
+li {
+    margin-right: 50px;
+}
